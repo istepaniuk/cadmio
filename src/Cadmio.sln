@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadmio", "Cadmio\Cadmio.csproj", "{BBF78DDF-FE59-450A-A73C-25B5E8BA2B84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBF78DDF-FE59-450A-A73C-25B5E8BA2B84}.Debug|x86.ActiveCfg = Debug|x86
+		{BBF78DDF-FE59-450A-A73C-25B5E8BA2B84}.Debug|x86.Build.0 = Debug|x86
+		{BBF78DDF-FE59-450A-A73C-25B5E8BA2B84}.Release|x86.ActiveCfg = Release|x86
+		{BBF78DDF-FE59-450A-A73C-25B5E8BA2B84}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Cadmio\Cadmio.csproj
+		Policies = $0
+		$0.StandardHeader = $1
+		$1.Text = 
+		$1.inheritsSet = Apache2License
+		$0.DotNetNamingPolicy = $2
+		$2.DirectoryNamespaceAssociation = None
+		$2.ResourceNamePolicy = FileFormatDefault
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+		$0.TextStylePolicy = $4
+		$4.inheritsSet = null
+		$4.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $5
+		$5.inheritsSet = Mono
+		$5.inheritsScope = text/x-csharp
+		$5.scope = text/x-csharp
+		description = Cadmio 3D solid modeller
+		version = 0.0.1
+		outputpath = Cadmio\bin
+	EndGlobalSection
+EndGlobal
