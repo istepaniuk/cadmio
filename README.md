@@ -1,3 +1,6 @@
+Cadmio
+======
+
 Cadmio is a proof of concept program to test the current state of Mono development tools and libraries.
 
 It is a GTK application using an OpenGL viewport, it allows mouse zoom and navigation as well as projecting cursor coordinates over the gound plane in the screen.
